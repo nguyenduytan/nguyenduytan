@@ -25,21 +25,21 @@ I like clean code, thoughtful design, automation, and solving problems through s
 - Interested in automation, open source, and self-hosted solutions.
 - Learning something new every day.
 
-### Tech & Tools
+### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash,git,github,vscode,docker,js,ts,nodejs,php,python,mysql&perline=7" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,git,github,vscode,docker,js,ts,nodejs,php,python,mysql&perline=7&size=42" alt="Technologies and tools" />
 </p>
 
 ### GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nguyenduytan&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenduytan&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyenduytan&theme=github" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nguyenduytan&theme=github" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nguyenduytan&hide_border=true&theme=transparent" alt="GitHub Streak" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenduytan&theme=github" alt="GitHub Profile Summary" />
 </p>
 
 ---
@@ -50,11 +50,11 @@ If you find my projects useful or enjoy what I build, consider supporting my wor
 
 <p align="center">
   <a href="https://www.paypal.me/copbeo">
-    <img src="https://img.shields.io/badge/Donate_with_PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate with PayPal" />
+    <img src="https://img.shields.io/badge/PayPal-Support_My_Work-0070BA?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate with PayPal" />
   </a>
   &nbsp;
   <a href="https://buymeacoffee.com/nguyenduytan">
-    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
+    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-Support_Me-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
 </p>
 
