@@ -24,6 +24,16 @@ location:   Vietnam 🇻🇳
 focus:      Web Apps, APIs, Clean Architecture, DX
 motto:      "First, solve the problem. Then, write the code."
 
+<!-- ─────────────  ABOUT ME  ───────────── -->
+### `>_ whoami`
+
+```yaml
+name:       Tony Nguyễn
+role:       Full-Stack Developer
+location:   Vietnam 🇻🇳
+focus:      Web Apps, APIs, Clean Architecture, DX
+motto:      "First, solve the problem. Then, write the code."
+
 <!-- ───────────── TECH STACK ───────────── -->
 >_ ls ~/tech-stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,nestjs,postgres,mongodb,redis,docker,git,github,linux,nginx,bash,vim&theme=dark&perline=9" /> </div>
